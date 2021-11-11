@@ -70,4 +70,4 @@ This time I would like to display an interactive dashboard for technical analysi
 <a href="url"><img src="https://github.com/altheanabila/Interactive-TA-with-Bollinger-Bands-MACD-and-RSI/blob/main/pic%2013.png" ></a>
 
 
-
+*all the codes are learned through online course [https://www.udemy.com/course/python-and-machine-learning-in-financial-analysis/]
